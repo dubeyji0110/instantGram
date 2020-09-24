@@ -8,7 +8,7 @@
 
 .navbar{
     display: flex;
-    position: fixed;
+    position: sticky;
     top: 0;
     align-items: center;
     justify-content: center;
